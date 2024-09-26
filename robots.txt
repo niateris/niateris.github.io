@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niateris.github.io/sitemap.niateris.gz
+Sitemap: https://niateris.github.io/app/sitemap.niateris.gz
+Sitemap: https://niateris.github.io/assets/sitemap.niateris.gz
+Sitemap: https://niateris.github.io/css/sitemap.niateris.gz
+Sitemap: https://niateris.github.io/data/sitemap.niateris.gz
+Sitemap: https://niateris.github.io/includes/sitemap.niateris.gz
+Sitemap: https://niateris.github.io/item/sitemap.niateris.gz
+Sitemap: https://niateris.github.io/src/sitemap.niateris.gz
